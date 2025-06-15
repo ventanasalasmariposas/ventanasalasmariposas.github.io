@@ -1,2 +1,1 @@
 openai-domain-verification=provisional-test-123456
-Fitxer provisional per forçar verificació OpenAI
